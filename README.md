@@ -1,7 +1,7 @@
 # Free Online Barcode Generator
 
-## Part of this features implemented on:
-#### Barcodes.pro [Free Online Barcode Generator](https://barcodes.pro/free-online-barcode-generator)
+### Part of these features implemented on:
+### Barcodes.pro [Free Online Barcode Generator](https://barcodes.pro/free-online-barcode-generator)
 
 
 ### Generate barcodes from a single PHP file. MIT license. Credits: kreativekorp/barcode
