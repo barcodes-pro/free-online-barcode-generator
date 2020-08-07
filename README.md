@@ -1,6 +1,10 @@
-# barcode.php
+# Free Online Barcode Generator
 
-### Generate barcodes from a single PHP file. MIT license.
+## Part of this features implemented on:
+#### Barcodes.pro [Free Online Barcode Generator](https://barcodes.pro/free-online-barcode-generator)
+
+
+### Generate barcodes from a single PHP file. MIT license. Credits: kreativekorp/barcode
 
   * Output to PNG, GIF, JPEG, or SVG.
   * Generates UPC-A, UPC-E, EAN-13, EAN-8, Code 39, Code 93, Code 128, Codabar, ITF, QR Code, and Data Matrix.
