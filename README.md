@@ -1,8 +1,24 @@
 # Free Online Barcode Generator
 
 ### Part of these features implemented on:
-### Barcodes.pro [Free Online Barcode Generator](https://barcodes.pro/free-online-barcode-generator)
+### Barcodes.pro [Barcode Generator](https://barcodes.pro/generator)
 
+[UPC Barcode Generator](https://barcodes.pro/generator/upca)
+[UPC-E Barcode Generator](https://barcodes.pro/generator/upce)
+
+[EAN Barcode Generator](https://barcodes.pro/generator/ean13)
+[EAN-8 Barcode Generator](https://barcodes.pro/generator/ean8)
+
+[CODE-39 Barcode Generator](https://barcodes.pro/generator/code39)
+[CODE-93 Barcode Generator](https://barcodes.pro/generator/code93)
+[CODABAR Barcode Generator](https://barcodes.pro/generator/codabar)
+[ITF-6 Barcode Generator](https://barcodes.pro/generator/itf)
+[ITF-14 Barcode Generator](https://barcodes.pro/generator/itf14)
+
+[QR-Code Generator](https://barcodes.pro/generator/qr)
+
+[Data Matrix Generator](https://barcodes.pro/generator/dmtx)
+[GS1 Data Matrix Generator](https://barcodes.pro/generator/gs1dmtx)
 
 ### Generate barcodes from a single PHP file. MIT license. Credits: kreativekorp/barcode
 
